@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="KJumpAction.Word0">
+    <keyboard-shortcut first-keystroke="comma" second-keystroke="j" />
+    <keyboard-shortcut first-keystroke="comma" second-keystroke="l" />
+  </action>
+</keymap>
