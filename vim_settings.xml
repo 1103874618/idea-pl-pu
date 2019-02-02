@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" timestamp="1549098803063">
-        <mark key="'" line="1" column="1" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="50" />
+      <file name="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" timestamp="1549102772659">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
     </filemarks>
     <jumps>
       <jump line="1" column="1" filename="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" />
+      <jump line="5" column="4" filename="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -30,6 +31,22 @@
       <register name="4" type="4">
         <text encoding="base64">CiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="59" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="-" type="4">
         <text>窗</text>
       </register>
@@ -40,6 +57,9 @@
     </search>
     <history>
       <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
