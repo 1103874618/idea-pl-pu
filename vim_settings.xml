@@ -1,0 +1,59 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" timestamp="1549098803063">
+        <mark key="'" line="1" column="1" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="50" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="1" filename="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8v1eK74crks/bSu7j2tLAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8v1eK74crks/bSu7j2tLAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8v1eK74crks/bSu7j2tLAK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      </register>
+      <register name="-" type="4">
+        <text>窗</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
