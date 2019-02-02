@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" timestamp="1549102772659">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" timestamp="1549106062028">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -16,20 +16,36 @@
       <jump line="5" column="4" filename="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8v1eK74crks/bSu7j2tLAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9CiAgfQoKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfQogIH0KCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH0KICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8v1eK74crks/bSu7j2tLAK</text>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="0" type="4">
+        <text>public void paint(Graphics g){
+    g.drawString(&quot;java makes applet easy.&quot;,20,20);
+    //这会输出一个窗
+
+  }</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9CiAgfQoKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfQogIH0KCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH0KICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8v1eK74crks/bSu7j2tLAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+        <text encoding="base64">CgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH0KICB9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+        <text encoding="base64">cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgoKfSl7CiAgICBnLmRyYXdTdHJpbmcoImF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -47,8 +63,14 @@
           <key char="59" code="0" mods="0" />
         </keys>
       </register>
-      <register name="-" type="4">
-        <text>窗</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fSl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IAog</text>
       </register>
     </registers>
     <search>
