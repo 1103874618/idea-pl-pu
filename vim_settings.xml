@@ -3,31 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" timestamp="1549106062028">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
+      <file name="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" timestamp="1549106890757">
+        <mark key="'" line="6" column="39" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="1" column="1" filename="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" />
       <jump line="5" column="4" filename="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" />
+      <jump line="6" column="39" filename="D:/study/self_learn/java/code/ch_15/src/FirstAwt.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9CiAgfQoKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfQogIH0KCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeQ==</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="0" type="4">
-        <text>public void paint(Graphics g){
-    g.drawString(&quot;java makes applet easy.&quot;,20,20);
-    //这会输出一个窗
-
-  }</text>
+        <text encoding="base64">ICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeQ==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9CiAgfQoKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfQogIH0KCgogIH1wdWJsaWMgdm9pZCBwYWludChHcmFwaGljcyBnKXsKICAgIGcuZHJhd1N0cmluZygiamF2YSBtYWtlcyBhcHBsZXQgZWFzeS4iLDIwLDIwKTsKICAgIC8v1eK74crks/bSu7j2tLAKCiAgfXB1YmxpYyB2b2lkIHBhaW50KEdyYXBoaWNzIGcpewogICAgZy5kcmF3U3RyaW5nKCJqYXZhIG1ha2VzIGFwcGxldCBlYXN5LiIsMjAsMjApOwogICAgLy/V4rvhyuSz9tK7uPa0sAoKICB9cHVibGljIHZvaWQgcGFpbnQoR3JhcGhpY3MgZyl7CiAgICBnLmRyYXdTdHJpbmcoImphdmEgbWFrZXMgYXBwbGV0IGVhc3kuIiwyMCwyMCk7CiAgICAvL9Xiu+HK5LP20ru49rSwCgogIH0KICB9Cg==</text>
