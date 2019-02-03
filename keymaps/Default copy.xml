@@ -1,12 +1,16 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="KJumpAction.Line">
-    <keyboard-shortcut first-keystroke="comma" second-keystroke="m" />
+    <keyboard-shortcut first-keystroke="shift m" />
   </action>
   <action id="KJumpAction.Word0">
-    <keyboard-shortcut first-keystroke="comma" second-keystroke="l" />
+    <keyboard-shortcut first-keystroke="shift l" />
   </action>
   <action id="VimInsertExitMode">
-    <keyboard-shortcut first-keystroke="comma" second-keystroke="comma" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="VimMotionScrollPageDown">
     <keyboard-shortcut first-keystroke="shift d" />
@@ -15,6 +19,6 @@
     <keyboard-shortcut first-keystroke="shift e" />
   </action>
   <action id="VimVisualExitMode">
-    <keyboard-shortcut first-keystroke="comma" second-keystroke="period" />
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
 </keymap>
